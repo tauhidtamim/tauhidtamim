@@ -8,7 +8,7 @@
 - :innocent: 7th Semester CSE student.
 - :book: Doing Undergraduate Thesis on Sign Language Translation in the field of Computer Vision.
 - :computer: Try To Do Competitive Programming From Time to Time.
-- :pencil: Current Goals: Learn about Node.js.
+- :pencil: Current Goals: Learn About Server-Side Web Development.
 
 ### Connect With Me:
 
