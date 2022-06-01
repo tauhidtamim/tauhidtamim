@@ -3,12 +3,12 @@
 ![Badge](https://cp-logo.vercel.app/codeforces/_tmt02_)
 
 
-## I am an undergraduate student!
-- :sweat_smile: Currently Pursuing Bachelor of Science at [Islamic University of Technology][iut]. 
-- :innocent: 7th Semester CSE student.
-- :book: Doing Undergraduate Thesis on Sign Language Translation in the field of Computer Vision.
-- :computer: Try To Do Competitive Programming From Time to Time.
-- :pencil: Current Goals: Learn About Server-Side Web Development.
+## I am a fresh graduate!
+- :sweat_smile: Obtained Bachelor of Science Degree at [Islamic University of Technology][iut]. 
+- :innocent: Computer Science and Engineering student.
+- :book: Undergraduate Thesis on Sign Language Translation in the field of Computer Vision. 
+- :computer: Try To Do [Competitive Programming][codeforces] From Time to Time.
+<!-- - :pencil: Current Goals: Learn About Server-Side Web Development. -->
 
 ### Connect With Me:
 
@@ -32,6 +32,6 @@
 
 
 [youtube]: https://www.youtube.com/channel/UCDSuw7UdvpZK2dan3o0kWFA
-[gmail]: tauhidtamim0016@gmail.com
+[gmail]: mailto:tauhidtamim0016@gmail.com
 [iut]: https://www.iutoic-dhaka.edu/
 [codeforces]: https://codeforces.com/profile/_tmt02_
