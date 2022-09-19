@@ -3,11 +3,11 @@
 ![Badge](https://cp-logo.vercel.app/codeforces/_tmt02_)
 
 
-## I am a fresh graduate!
+## I am a recent CSE graduate!
 - :sweat_smile: Obtained Bachelor of Science Degree at [Islamic University of Technology][iut]. 
-- :innocent: Computer Science and Engineering student.
 - :book: Undergraduate Thesis on Sign Language Translation in the field of Computer Vision. 
 - :computer: Try To Do [Competitive Programming][codeforces] From Time to Time.
+- :desktop_computer: Check Out My Portfolio [Website].
 <!-- - :pencil: Current Goals: Learn About Server-Side Web Development. -->
 
 ### Connect With Me:
@@ -35,3 +35,4 @@
 [gmail]: mailto:tauhidtamim0016@gmail.com
 [iut]: https://www.iutoic-dhaka.edu/
 [codeforces]: https://codeforces.com/profile/_tmt02_
+[Website]: https://tauhidtamim.github.io/
